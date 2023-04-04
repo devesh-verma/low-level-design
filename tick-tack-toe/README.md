@@ -1,3 +1,4 @@
+```
 Initializing new game
 Starting game
 Current player =>  Players { name: 'Devesh', symbol: 0 }
@@ -158,3 +159,4 @@ Current player =>  Players { name: 'Devesh', symbol: 0 }
 └─────────┴───┴───┴───┘
 Checking winner
 Game Winner:  TIE
+```
