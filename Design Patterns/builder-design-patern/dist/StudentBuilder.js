@@ -17,14 +17,6 @@ class StudentBuilder {
         this.age = value;
         return this;
     }
-    setfathersName(value) {
-        this.fathersName = value;
-        return this;
-    }
-    setmothersName(value) {
-        this.mothersName = value;
-        return this;
-    }
     build() {
         return new Student_1.default(this);
     }

@@ -5,8 +5,7 @@ class Student {
         this.rollNo = studentBuilder.rollNo;
         this.name = studentBuilder.name;
         this.age = studentBuilder.age;
-        this.fathersName = studentBuilder.fathersName;
-        this.mothersName = studentBuilder.mothersName;
+        this.subjects = studentBuilder.subjects;
     }
 }
 exports.default = Student;
